@@ -1,4 +1,4 @@
-# Olá, sou Geovana Amorim 👋
+# Olá, sou Geovana Amorim  👩🏽‍💻 
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-End com Java**.
 
