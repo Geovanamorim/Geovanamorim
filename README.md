@@ -6,8 +6,6 @@
 
 </div>
 
-Oi, eu sou a Geovana 👋
-
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-End.
 
 Atualmente estou construindo minha base em Java, estudando lógica de programação, Programação Orientada a Objetos e Git, enquanto transformo o que aprendo em projetos práticos.
