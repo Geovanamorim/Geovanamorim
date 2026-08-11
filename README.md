@@ -1,51 +1,38 @@
-<div align="center">
+# Olá, sou Geovana Amorim 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=GEOVANA%20AMORIM&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=BACK-END%20DEVELOPMENT%20%7C%20JAVA&descAlignY=62&descSize=18&color=0:050505,50:0b1020,100:111827" width="100%"/>
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-End com Java**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Estudante+de+ADS;Foco+em+Back-End;Aprendendo+Java;Construindo+projetos+na+pr%C3%A1tica" />
+Atualmente estou construindo minha base em lógica de programação, Programação Orientada a Objetos (POO) e versionamento com Git, transformando o que estudo em projetos práticos.
 
-</div>
+**Objetivo:** Conquistar minha primeira oportunidade na área de tecnologia.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-End.
+---
 
-Atualmente estou construindo minha base em Java, estudando lógica de programação, Programação Orientada a Objetos e Git, enquanto transformo o que aprendo em projetos práticos.
+### 🛠️ Tecnologias & Ferramentas
 
-Meu objetivo é evoluir tecnicamente e conquistar minha primeira oportunidade na área de tecnologia.
+- **Em prática:** Java • Lógica de Programação • POO • Git & GitHub
+- **Próximos passos:** SQL • Bancos de Dados • Spring Boot • APIs REST • JUnit
 
-📚 O que estou estudando
+---
 
-Java • POO • Lógica de programação • Git & GitHub
+### 💻 Projetos
 
-Próximos passos: SQL • Spring Boot • APIs REST
+- **Java Heart Animation** — Experimento visual em Java para explorar animação gráfica e manipulação de elementos.
 
-💻 Projetos
+  [Ver projeto →](https://github.com/Geovanamorim/amor)
 
-Java Heart Animation
+- **Java Calculator** — Projeto desenvolvido para praticar os fundamentos de Java e lógica de programação.
 
-Experimento em Java para explorar animação gráfica e manipulação de elementos visuais.
+---
 
-Ver projeto →
+### 🚀 Próximos projetos
 
-Java Calculator
+- **Sistema de Cadastro** — Projeto para praticar POO, organização de código e manipulação de dados.
 
-Projeto de prática para aplicar os fundamentos que estou estudando em Java.
+- **Controle Financeiro** — Projeto para aprofundar Java, POO e futuramente trabalhar com SQL.
 
-Próximos projetos
+---
 
-Sistema de Cadastro
+### 🌐 Conecte-se Comigo
 
-Projeto para praticar Programação Orientada a Objetos e organização de código.
-
-Controle Financeiro
-
-Projeto para aprofundar meus conhecimentos em Java, POO e futuramente SQL.
-
-🌐 Onde me encontrar
-
-GitHub • LinkedIn
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,50:0b1020,100:050505" width="100%"/>
-
-</div>
+[GitHub](https://github.com/Geovanamorim) • [LinkedIn](https://www.linkedin.com/in/geovanaamorim/)
