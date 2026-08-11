@@ -20,23 +20,23 @@ Próximos passos: SQL • Spring Boot • APIs REST
 
 💻 Projetos
 
-❤️ Java Heart Animation
+Java Heart Animation
 
 Experimento em Java para explorar animação gráfica e manipulação de elementos visuais.
 
 Ver projeto →
 
-🧮 Java Calculator
+Java Calculator
 
 Projeto de prática para aplicar os fundamentos que estou estudando em Java.
 
-🚀 Próximos projetos
+Próximos projetos
 
-📋 Sistema de Cadastro
+Sistema de Cadastro
 
 Projeto para praticar Programação Orientada a Objetos e organização de código.
 
-💰 Controle Financeiro
+Controle Financeiro
 
 Projeto para aprofundar meus conhecimentos em Java, POO e futuramente SQL.
 
