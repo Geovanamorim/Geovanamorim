@@ -1,8 +1,8 @@
 # Olá, sou Geovana Amorim 👩🏽‍💻
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-End com Java**.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-End**.
 
-Atualmente estou construindo minha base em lógica de programação, Programação Orientada a Objetos (POO) e versionamento com Git, transformando o que estudo em projetos práticos.
+Atualmente estou estudando Java, lógica de programação, Programação Orientada a Objetos (POO), Python e Git, colocando em prática o que aprendo através de projetos.
 
 **Objetivo:** Conquistar minha primeira oportunidade na área de tecnologia.
 
@@ -10,9 +10,11 @@ Atualmente estou construindo minha base em lógica de programação, Programaç�
 
 ### 🛠️ Tecnologias & Ferramentas
 
-* **Em prática:** Java • Lógica de Programação • POO • Git & GitHub
-* **Em estudo:** Python
-* **Próximos passos:** SQL • Bancos de Dados • Spring Boot • APIs REST • JUnit
+* Java
+* Python
+* Lógica de Programação
+* POO
+* Git & GitHub
 
 ---
 
@@ -28,17 +30,11 @@ Atualmente estou construindo minha base em lógica de programação, Programaç�
 
 * **Sistema de Cadastro** — Projeto para praticar POO, organização de código e manipulação de dados.
 
-* **Controle Financeiro** — Projeto para aprofundar Java, POO e futuramente trabalhar com SQL.
-
----
-
-### 🚀 Próximos projetos
-
-* API REST com Java, Spring Boot e SQL
-* Projetos em Python
+* **Controle Financeiro** — Projeto para aprofundar Java, POO e manipulação de dados.
 
 ---
 
 ### 🌐 Conecte-se Comigo
 
 [GitHub](https://github.com/Geovanamorim) • [LinkedIn](https://www.linkedin.com/in/geovanaamorim/)
+
